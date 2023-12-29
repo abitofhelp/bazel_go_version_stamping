@@ -1,3 +1,3 @@
 package version
 
-var Version string = "Assigned bt Bazel when built: 'bazel build //:app'"
+var Version string = "Assigned by Bazel when built: 'bazel build //:app'"
